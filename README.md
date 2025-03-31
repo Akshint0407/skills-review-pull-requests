@@ -20,7 +20,7 @@ _Collaborate and work together on GitHub._
 
 ## Finish
 
-_Congratulations friend, you've completed this course!_
+_Congratulations Akshint0407, you've completed this course!_
 
 <img src=https://octodex.github.com/images/hula_loop_octodex03.gif alt=celebrate width=300 align=right>
 
